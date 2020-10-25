@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a simple multi-functional calculator app with Flutter
+- 🔭 I’m currently working on a simple tic tac toe game to be played on multiple devices using Flutter and Firebase
 - 🌱 I’m currently learning native Android app development
 - 👯 I’m looking to collaborate on Flutter projects
 - 🤔 I’m looking for help with Flutter state management strategies
 - 😄 Pronouns: He/His
+- 📫 How to reach me: hridayjyotipradhandc@gmail.com
 
 
 <!--
@@ -14,6 +15,6 @@
 Here are some ideas to get you started:
 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - ⚡ Fun fact: ...
 -->
