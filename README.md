@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a simple tic tac toe game to be played on multiple devices using Flutter and Firebase
+- 🔭 I’m currently working on a finance management app with Flutter
 - 🌱 I’m currently learning API development with node.js
 - 👯 I’m looking to collaborate on Flutter projects
 - 🤔 I’m looking for help with Flutter state management strategies
