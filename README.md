@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a finance management app with Flutter
-- 🌱 I’m currently learning API development with node.js
+- 🌱 I’m currently learning data structures, problem solving and algorithms
 - 👯 I’m looking to collaborate on Flutter projects
 - 🤔 I’m looking for help with Flutter state management strategies
 - 😄 Pronouns: He/His
