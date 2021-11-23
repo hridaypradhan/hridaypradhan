@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a website for an architectural firm using Flutter web
+- 🔭 I’m currently working on a university-level mobile app to help connect students for events/hobbies/studies etc. using Flutter and Firebase
 - 🌱 I’m currently learning data structures, problem solving and algorithms
 - 👯 I’m looking to collaborate on Flutter projects
 - 🤔 I’m looking for help with Flutter state management strategies
