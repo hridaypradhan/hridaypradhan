@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a university-level mobile app to help connect students for events/hobbies/studies etc. using Flutter and Firebase
-- 🌱 I’m currently learning data structures, problem solving and algorithms
-- 👯 I’m looking to collaborate on Flutter projects
-- 🤔 I’m looking for help with Flutter state management strategies
-- 😄 Pronouns: He/His
+- 🔭 I’m a CS grad student at Arizona State University
+- 🌱 I’m currently learning NLP, Gen AI, Data Visualisation, and Algorithms
+- 👯 I’m looking to collaborate on beginner AI projects
+- 🤔 I’m looking for help with the transition from SDE to AI roles 
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: hridayjyotipradhandc@gmail.com
 
 
