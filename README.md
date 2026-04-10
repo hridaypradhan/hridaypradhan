@@ -8,6 +8,7 @@
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: hridayjyotipradhandc@gmail.com
 
+[![gists-readme](https://gists-readme.yizack.com/api/pin?id=775173f64318d9d93073878e2b9ed89e&owner=true&theme=dark)](https://gist.github.com/hridaypradhan/775173f64318d9d93073878e2b9ed89e)
 <!--
 **hridaypradhan/hridaypradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
