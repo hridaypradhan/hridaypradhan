@@ -9,6 +9,8 @@
 - 📫 How to reach me: hridayjyotipradhandc@gmail.com
 
 [![gists-readme](https://gists-readme.yizack.com/api/pin?id=775173f64318d9d93073878e2b9ed89e&owner=true&theme=dark)](https://gist.github.com/hridaypradhan/775173f64318d9d93073878e2b9ed89e)
+
+[![gists-readme](https://gists-readme.yizack.com/api/pin?id=1fe5135741f2112a6aa32a856002946c&owner=true&theme=dark)](https://gist.github.com/hridaypradhan/1fe5135741f2112a6aa32a856002946c)
 <!--
 **hridaypradhan/hridaypradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
