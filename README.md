@@ -9,9 +9,12 @@
 
 <div align="center">
   <a href="https://gist.github.com/hridaypradhan/775173f64318d9d93073878e2b9ed89e">
-    <img src="https://gists-readme.yizack.com/api/pin?id=775173f64318d9d93073878e2b9ed89e&owner=true&theme=dark" width="48%" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://gists-readme.yizack.com/api/pin?id=775173f64318d9d93073878e2b9ed89e&owner=true&theme=dark" width="33%" />
+  </a>
   <a href="https://gist.github.com/hridaypradhan/1fe5135741f2112a6aa32a856002946c">
-    <img src="https://gists-readme.yizack.com/api/pin?id=1fe5135741f2112a6aa32a856002946c&owner=true&theme=dark" width="48%" />
+    <img src="https://gists-readme.yizack.com/api/pin?id=1fe5135741f2112a6aa32a856002946c&owner=true&theme=dark" width="33%" />
+  </a>
+  <a href="https://gist.github.com/hridaypradhan/314984a8c470ab26dac2e6327545bd6a">
+    <img src="https://gists-readme.yizack.com/api/pin?id=314984a8c470ab26dac2e6327545bd6a&owner=true&theme=dark" width="33%" />
   </a>
 </div>
